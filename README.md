@@ -1,10 +1,10 @@
-# mersel
+# Mandoob
 
 A new Flutter project.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
+a Flutter application allows customers to place orders and facilitates their delivery through shipment companies. Once an order is placed, 
+a delivery man comes to take the order and put it into the shipment company that is selected by the user
 
 A few resources to get you started if this is your first Flutter project:
 
